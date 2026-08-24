@@ -1,17 +1,17 @@
 {
   "meta": {
-    "name": "Alex Rivera",
-    "role": "Full-Stack Developer",
+    "name": "Rangga Danu Kusuma",
+    "role": "Full-Stack Developer / Game developer",
     "tagline": "I build fast, accessible web products — from database schema to pixel-perfect UI.",
-    "location": "Bandung, Indonesia",
+    "location": "Surabaya, Indonesia",
     "timezone": "Asia/Jakarta",
     "availabilityStatus": "Available for freelance",
-    "email": "hello@alexrivera.dev",
+    "email": "romagading@gmail.com",
     "photoUrl": "",
     "resumeUrl": "",
     "socials": {
-      "github": "https://github.com/alexrivera",
-      "linkedin": "https://linkedin.com/in/alexrivera",
+      "github": "https://github.com/RKPYI",
+      "linkedin": "https://www.linkedin.com/in/rangga-danu-kusuma-62b34a310/",
       "twitter": "",
       "dribbble": "",
       "behance": "",
@@ -19,18 +19,23 @@
     }
   },
   "about": {
-    "short": "I've spent the last 6 years turning ambiguous product ideas into shipped software.",
-    "long": "I'm a full-stack developer focused on developer tools and internal platforms. I like small teams, fast feedback loops, and code that's easy to delete. Outside of work I mentor junior engineers and contribute to a couple of open-source CLI tools."
+    "short": "I've spent the last 4 years turning ambiguous product ideas into shipped software.",
+    "long": "I'm a full-stack developer focused on developer tools and internal platforms. I like small teams, fast feedback loops, and code that's easy to delete."
   },
   "experience": [
     {
       "id": "exp-1",
-      "company": "Northwind Labs",
-      "role": "Senior Software Engineer",
-      "startDate": "2023",
-      "endDate": "Present",
-      "description": "Leading the platform team rebuilding the internal deployment pipeline; cut average deploy time from 14 minutes to 3.",
-      "tech": ["TypeScript", "Next.js", "Postgres", "Docker"]
+      "company": "Universal Big Data",
+      "role": "Junior Software Engineer",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Optimize Data Management, Website Loading",
+      "tech": [
+        "TypeScript",
+        "Next.js",
+        "Postgres",
+        "Docker"
+      ]
     },
     {
       "id": "exp-2",
@@ -39,7 +44,11 @@
       "startDate": "2020",
       "endDate": "2023",
       "description": "Built client-facing dashboards for logistics customers; introduced a shared component library adopted across 5 product teams.",
-      "tech": ["React", "GraphQL", "Tailwind CSS"]
+      "tech": [
+        "React",
+        "GraphQL",
+        "Tailwind CSS"
+      ]
     }
   ],
   "education": [
@@ -65,17 +74,32 @@
     {
       "id": "skill-1",
       "category": "Languages",
-      "items": ["TypeScript", "JavaScript", "Python", "SQL"]
+      "items": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "SQL"
+      ]
     },
     {
       "id": "skill-2",
       "category": "Frameworks",
-      "items": ["Next.js", "React", "Node.js", "Express"]
+      "items": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Express"
+      ]
     },
     {
       "id": "skill-3",
       "category": "Tools",
-      "items": ["Docker", "Postgres", "GitHub Actions", "Figma"]
+      "items": [
+        "Docker",
+        "Postgres",
+        "GitHub Actions",
+        "Figma"
+      ]
     }
   ],
   "projects": [
@@ -85,7 +109,12 @@
       "description": "A self-editable Next.js portfolio: sign in with GitHub, edit content inline, and every change is committed straight to this repo.",
       "liveUrl": "",
       "repoUrl": "",
-      "tech": ["Next.js", "NextAuth", "GitHub API", "Tailwind CSS"],
+      "tech": [
+        "Next.js",
+        "NextAuth",
+        "GitHub API",
+        "Tailwind CSS"
+      ],
       "featured": true
     }
   ],
