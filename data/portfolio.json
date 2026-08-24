@@ -47,15 +47,7 @@
       "details": "Focused on distributed systems. Capstone project on eventual-consistency in offline-first mobile apps."
     }
   ],
-  "certifications": [
-    {
-      "id": "cert-1",
-      "name": "AWS Certified Solutions Architect – Associate",
-      "issuer": "Amazon Web Services",
-      "date": "2024",
-      "credentialUrl": ""
-    }
-  ],
+  "certifications": [],
   "skills": [
     {
       "id": "skill-1",
