@@ -29,25 +29,11 @@
       "role": "Junior Software Engineer",
       "startDate": "2024",
       "endDate": "2024",
-      "description": "Optimize Data Management, Website Loading",
+      "description": "Optimize Data Management, API response time goes from 10s to 500ms.",
       "tech": [
-        "TypeScript",
-        "Next.js",
-        "Postgres",
-        "Docker"
-      ]
-    },
-    {
-      "id": "exp-2",
-      "company": "Fernweh Studio",
-      "role": "Frontend Engineer",
-      "startDate": "2020",
-      "endDate": "2023",
-      "description": "Built client-facing dashboards for logistics customers; introduced a shared component library adopted across 5 product teams.",
-      "tech": [
-        "React",
-        "GraphQL",
-        "Tailwind CSS"
+        "PHP",
+        "Laravel",
+        "Postman"
       ]
     }
   ],
