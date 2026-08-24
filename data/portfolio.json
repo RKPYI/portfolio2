@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "name": "Alex Rivera",
+    "role": "Full-Stack Developer",
+    "tagline": "I build fast, accessible web products — from database schema to pixel-perfect UI.",
+    "location": "Bandung, Indonesia",
+    "timezone": "Asia/Jakarta",
+    "availabilityStatus": "Available for freelance",
+    "email": "hello@alexrivera.dev",
+    "photoUrl": "",
+    "resumeUrl": "",
+    "socials": {
+      "github": "https://github.com/alexrivera",
+      "linkedin": "https://linkedin.com/in/alexrivera",
+      "twitter": "",
+      "dribbble": "",
+      "behance": "",
+      "website": ""
+    }
+  },
+  "about": {
+    "short": "I've spent the last 6 years turning ambiguous product ideas into shipped software.",
+    "long": "I'm a full-stack developer focused on developer tools and internal platforms. I like small teams, fast feedback loops, and code that's easy to delete. Outside of work I mentor junior engineers and contribute to a couple of open-source CLI tools."
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Northwind Labs",
+      "role": "Senior Software Engineer",
+      "startDate": "2023",
+      "endDate": "Present",
+      "description": "Leading the platform team rebuilding the internal deployment pipeline; cut average deploy time from 14 minutes to 3.",
+      "tech": ["TypeScript", "Next.js", "Postgres", "Docker"]
+    },
+    {
+      "id": "exp-2",
+      "company": "Fernweh Studio",
+      "role": "Frontend Engineer",
+      "startDate": "2020",
+      "endDate": "2023",
+      "description": "Built client-facing dashboards for logistics customers; introduced a shared component library adopted across 5 product teams.",
+      "tech": ["React", "GraphQL", "Tailwind CSS"]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "school": "Institut Teknologi Bandung",
+      "degree": "B.S. Computer Science",
+      "startDate": "2016",
+      "endDate": "2020",
+      "details": "Focused on distributed systems. Capstone project on eventual-consistency in offline-first mobile apps."
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credentialUrl": ""
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "category": "Languages",
+      "items": ["TypeScript", "JavaScript", "Python", "SQL"]
+    },
+    {
+      "id": "skill-2",
+      "category": "Frameworks",
+      "items": ["Next.js", "React", "Node.js", "Express"]
+    },
+    {
+      "id": "skill-3",
+      "category": "Tools",
+      "items": ["Docker", "Postgres", "GitHub Actions", "Figma"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "This portfolio",
+      "description": "A self-editable Next.js portfolio: sign in with GitHub, edit content inline, and every change is committed straight to this repo.",
+      "liveUrl": "",
+      "repoUrl": "",
+      "tech": ["Next.js", "NextAuth", "GitHub API", "Tailwind CSS"],
+      "featured": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Priya Shah",
+      "role": "Engineering Manager, Northwind Labs",
+      "quote": "One of the few engineers I trust to own a project end to end without hand-holding."
+    }
+  ],
+  "awards": [],
+  "availability": {
+    "status": "Open to freelance and contract work",
+    "workingHours": "9am – 6pm WIB, Mon–Fri",
+    "rate": "Available on request",
+    "calendlyUrl": ""
+  },
+  "contact": {
+    "email": "hello@alexrivera.dev",
+    "message": "Let's build something together."
+  }
+}
