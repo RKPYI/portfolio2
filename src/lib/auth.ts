@@ -11,6 +11,7 @@ export const authOptions: NextAuthOptions = {
         // changes back to the GitHub repo that stores the portfolio data.
         params: { scope: "read:user user:email repo" },
       },
+      issuer: "https://github.com/login/oauth",
     }),
   ],
   session: { strategy: "jwt" },
