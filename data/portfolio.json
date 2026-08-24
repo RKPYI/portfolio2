@@ -40,10 +40,10 @@
   "education": [
     {
       "id": "edu-1",
-      "school": "Institut Teknologi Bandung",
+      "school": "Universitas Negeri Surabaya",
       "degree": "B.S. Computer Science",
-      "startDate": "2016",
-      "endDate": "2020",
+      "startDate": "2026",
+      "endDate": "Present",
       "details": "Focused on distributed systems. Capstone project on eventual-consistency in offline-first mobile apps."
     }
   ],
