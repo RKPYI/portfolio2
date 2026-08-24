@@ -104,14 +104,7 @@
       "featured": true
     }
   ],
-  "testimonials": [
-    {
-      "id": "test-1",
-      "name": "Priya Shah",
-      "role": "Engineering Manager, Northwind Labs",
-      "quote": "One of the few engineers I trust to own a project end to end without hand-holding."
-    }
-  ],
+  "testimonials": [],
   "awards": [],
   "availability": {
     "status": "Open to freelance, contract work and fulltime job",
