@@ -96,6 +96,21 @@
         "GitHub API",
         "Tailwind CSS"
       ],
+      "featured": false
+    },
+    {
+      "id": "c8f9856f-7c63-45dc-90a1-3010cfb84f8c",
+      "title": "Rantale",
+      "description": "Webnovel Reading Platform: Read, Rate, Comment, be an Author, Editor.",
+      "liveUrl": "rantale.ranggadk.com",
+      "repoUrl": "github.com/RKPYI/rantale",
+      "tech": [
+        "Laravel",
+        "Next.js",
+        "MySQL",
+        "Redis",
+        "Cloud"
+      ],
       "featured": true
     }
   ],
