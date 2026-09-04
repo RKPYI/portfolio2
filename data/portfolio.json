@@ -56,7 +56,9 @@
         "TypeScript",
         "JavaScript",
         "Python",
-        "SQL"
+        "SQL",
+        "PHP",
+        "Luau"
       ]
     },
     {
@@ -66,7 +68,8 @@
         "Next.js",
         "React",
         "Node.js",
-        "Express"
+        "Express",
+        "Laravel"
       ]
     },
     {
@@ -85,7 +88,7 @@
       "id": "proj-1",
       "title": "This portfolio",
       "description": "A self-editable Next.js portfolio: sign in with GitHub, edit content inline, and every change is committed straight to this repo.",
-      "liveUrl": "",
+      "liveUrl": "portfolio.ranggadk.com",
       "repoUrl": "",
       "tech": [
         "Next.js",
