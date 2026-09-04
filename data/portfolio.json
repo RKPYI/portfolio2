@@ -88,7 +88,7 @@
       "id": "proj-1",
       "title": "This portfolio",
       "description": "A self-editable Next.js portfolio: sign in with GitHub, edit content inline, and every change is committed straight to this repo.",
-      "liveUrl": "portfolio.ranggadk.com",
+      "liveUrl": "https://portfolio.ranggadk.com",
       "repoUrl": "",
       "tech": [
         "Next.js",
@@ -112,15 +112,6 @@
         "Cloud"
       ],
       "featured": true
-    },
-    {
-      "id": "500726be-df83-42ac-862f-05774d5a59c2",
-      "title": "",
-      "description": "",
-      "liveUrl": "",
-      "repoUrl": "",
-      "tech": [],
-      "featured": false
     }
   ],
   "testimonials": [],
